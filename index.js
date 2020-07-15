@@ -1,3 +1,5 @@
 var welcome = 'Hello World'
 
-var w = 1
+var w = 2
+
+var s = 3
